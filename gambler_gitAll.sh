@@ -1,6 +1,10 @@
-git clone
-git clone
-git clone
-git clone
-git clone
-git clonegit clone
+git clone https://github.com/mthbernardes/GFBBF.git
+git clone https://github.com/mthbernardes/SRBF.git
+git clone https://github.com/mthbernardes/gamblerscan.git
+git clone https://github.com/mthbernardes/GamblerSpammer.git
+git clone https://github.com/mthbernardes/MassAttack.git
+git clone https://github.com/mthbernardes/tor_installer.git
+git clone https://github.com/mthbernardes/SQLiChecker.git
+git clone https://github.com/mthbernardes/gamblerbf.git
+git clone https://github.com/mthbernardes/robots-analyzer.git
+git clone https://github.com/mthbernardes/sqlauto.git
